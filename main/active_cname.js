@@ -35,6 +35,7 @@ module.exports = {
   'robsd': 'robsd.pages.dev',
   'xyzblog': 'xyzscratcher.github.io',
   '13': '0x3st.netlify.app',
+  'caliph': 'cname.vercel-dns.com',
   'leiloser': 'leiloser.github.io',
   'foryou': 'foryou-byfw.vercel.app', //noCF
   'appcheck': 'app-checker.github.io',
